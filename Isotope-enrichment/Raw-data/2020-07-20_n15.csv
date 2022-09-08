@@ -1,0 +1,18 @@
+﻿Line,Sample,Amp 28,"d15N (permil, vs AIR)",Atom percent 15N,weight %N,Notes
+1,atropine 1,1973,-1.97,0.3654,,bypass
+2,atropine 2,3019,-2.95,0.3651,4.9,percent standard
+3,atropine 3,5661,-2.8,0.3651,4.76,percent standard
+4,usgs40,1488,-4.44,0.3645,9.66,isotope standard
+5,usgs40,6770,-4.59,0.3645,9.59,isotope standard
+6,usgs41,3723,47.57,0.3833,9.62,slightly enriched isotope standard
+7,ref welcome center 4 mg,3133,4.35,0.3677,1.6,
+8,ref welcome center 7 mg,5718,4.37,0.3677,1.7,
+9,ref hanna hammock 4,3596,4.57,0.3678,1.9,
+10,ref hanna hammock 7,5810,4.69,0.3678,1.66,
+11,N15 chicken coop 4,3227,63.57,0.389,1.7,
+12,N15 chicken coop 7,5675,59.24,0.3875,1.67,
+13,N15 lashley fence 4,3091,44.3,0.3821,1.65,
+14,N15 lashley fence 4,5719,39.46,0.3803,1.69,
+15,standard 1 at%,2962,1819.94,1.0172,11.22,enriched isotope standard
+16,usgs40 not used,3601,-3.16,0.365,9.35,not used for isotope corrections since followed enriched standard
+17,usgs40 not used,5276,-2.33,0.3653,9.31,not used for isotope corrections since followed enriched standard
